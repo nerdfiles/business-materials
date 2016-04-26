@@ -1,13 +1,13 @@
 # Speakerpedia.com
 
-Howdy!
+Howdy Ian! Pleasure chatting with you over lunch.
 
 ## History
 
 1. Résumé: https://gist.github.com/nerdfiles/3fecfa9ac36bc041421a (Markdown)  
    1.1. Design Case for Interactive Résumé https://medium.com/@filesofnerds/new-%C3%A9sum%C3%A9-concept-ddfb5dccc75c#.duulibnm3 (InDesign)
 2. Personal Website http://nerdfiles.net (running on Django)
-3. Personal Repos https://gitlab.com/nerdfiles, https://bitbucket.org/nerdfiles, https://github.com/nerdfiles
+3. Personal Repos https://gitlab.com/nerdfiles, https://bitbucket.org/nerdfiles, https://github.com/nerdfiles (mix of JS (Node.js, AngularJS), CoffeeScript, Python, Bash)
 
 ## Recent Works
 
