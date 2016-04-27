@@ -1,6 +1,6 @@
 # Crometrics.com
 
-Howdy Ian! Pleasure chatting with you over lunch.
+Howdy Eli! Pleasure chatting with you over lunch.
 
 ## History
 
